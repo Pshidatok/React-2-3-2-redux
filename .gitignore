@@ -1,0 +1,13 @@
+node_modules/
+dist/
+.manus/
+.manus-logs/
+.project-config.json
+pnpm-lock.yaml
+pnpm-workspace.yaml
+.env
+.env.*
+.DS_Store
+*.log
+*.tsbuildinfo
+coverage/
